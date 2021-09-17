@@ -1,7 +1,7 @@
 # pump-it-up
 Solution for  Pump it Up - Data Mining the Water Table challenge of drivendata<br> 
 Repository: https://github.com/SasmithaDasanayaka/pump-it-up <br> 
-Used models: RandomForestClassifier, XGBClassifier (xgboost), KNeighborsClassifier
+Used models: RandomForestClassifier, XGBClassifier (xgboost), KNeighborsClassifier, ensemble(sklearn VotingClassifier)
 
 ## Preprocessing 
 
