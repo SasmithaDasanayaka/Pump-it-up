@@ -40,6 +40,6 @@ Used models: RandomForestClassifier, XGBClassifier (xgboost), KNeighborsClassifi
 
 ## Feature Engineering
 
-### Checked mutual informations
-### Created new feataures by transfomations. i.e. new column named `operation_years` created from `date_recorded` and `construction_year`
-### Target encoded - i.e. target encoded `ward` since it has considerable amount of unique values.
+#### Checked mutual informations
+#### Created new feataures by transfomations. i.e. new column named `operation_years` created from `date_recorded` and `construction_year`
+#### Target encoded - i.e. target encoded `ward` since it has considerable amount of unique values.
